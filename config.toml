@@ -1,4 +1,4 @@
-baseURL = "https://pabloleona.github.io/my_launchx_blog/"
+baseURL = "https://pabloleona.github.io/my_launchx_blog"
 languageCode = "en-us"
 title = "Bitácora de Viaje Pablo León"
 theme = "hugo-winston-theme"
