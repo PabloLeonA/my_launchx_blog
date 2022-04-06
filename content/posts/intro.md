@@ -17,4 +17,5 @@ Para mi la cultura de desarrollo de software es lo siguiente:
 -Perseverancia
 
 Todo esto se basa en que debemos ser constantes con nuestro objetivos que nos propongamos y las finalizades que deseamos realizar para nuestra superacion personal.
+
 Esto tambien es importante para mi ya que son los valores clave que he tenido presentes en mi vida.
