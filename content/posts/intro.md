@@ -14,5 +14,6 @@ Para mi la cultura de desarrollo de software es lo siguiente:
 -Resilencia
 -Compañerismo
 -Respeto
+-Perseverancia
 
 Todo esto se basa en que debemos ser constantes con nuestro objetivos que nos propongamos y las finalizades que deseamos realizar para nuestra superacion personal.
