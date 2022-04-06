@@ -7,8 +7,11 @@ Hola ✌️  soy el explorer Pablo León y este es mi blog personal donde compar
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
+Mis expectativas son:
+
 -Aprender mas sobre Node js.
 -Aprender lo mas posible del MC Carlo.
 -Profundisar en el conocimiento para asi poder entenderlo.
 -Ser constante con mis trabajos.
+-
 🚀
