@@ -1,21 +1,13 @@
 ---
-title: 'About me'
-menu:
-  main:
-    name: "AboutMe"
+title: "Un poco sobre mi"
+date: 2022-03-01
+description: 'Hola me llamo pablo leon y les hablare un poco sobre mi y las cosas que me agradan'
 ---
 
-## Who am I
-
-Hola, aquí vas a leer un poco sobre mi 🤩
-
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+Hola mi nombre es juan pablo leon tengo 30 años
+Estudie en la Universidad Tecnologica de Puebla 
+Trabajo para KB tel  en el departamento de Mesa Tecnica
+Entre a estudiar a Launch-X buscando nuevas oportunidades de trabajo y por que quiero retomar mi gusto por la programacion
+tambien quiero encontrar nuevos retos y asi poder estudiar una maestria.
+Tengo una gatita negra llamada Blaky 
+Me gustan los videojuegos,escuchar musica y aprender cosas en mi tiempo libre.
